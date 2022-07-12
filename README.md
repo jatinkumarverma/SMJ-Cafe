@@ -1,2 +1,3 @@
-# Website to promote SMJ Cafe
+# Website for cafe
+ 
  
